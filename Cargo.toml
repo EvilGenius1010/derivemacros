@@ -1,0 +1,7 @@
+
+[workspace]
+members = [
+    "basicmacros", "customderivemacros",
+]
+
+resolver = "2" # Good practice to use the latest resolver
