@@ -1,0 +1,11 @@
+[package]
+name = "customderivemacros"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+proc-macro=true # very imp
+
+[dependencies]
+syn = "2.0"
+quote = "1.0"
